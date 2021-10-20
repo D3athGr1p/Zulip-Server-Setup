@@ -38,9 +38,9 @@
 - `cd /tmp`
 - `wget https://download.zulip.com/server/zulip-server-latest.tar.gz`
 - `tar -xvf zulip-server-latest.tar.gz`
-- `./scripts/setup/install --email=mehul.akbari@gmail.com --hostname=army.rainit.in`
+- `./scripts/setup/install --email=abc.dfg@gmail.com --hostname=none.grip.com`
 
-# ./zulip-server-*/scripts/setup/install --email=mehul.akbari@gmail.com --hostname=army.rainit.in --certbot
+# ./zulip-server-*/scripts/setup/install --email=abc.dfg@gmail.com --hostname=none.grip.com --certbot
 
 ### Errors
 
